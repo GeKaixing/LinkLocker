@@ -1,0 +1,5 @@
+{
+  "name": "LinkLocker",
+  "description": "A secure link sharing platform where users can lock URLs behind passwords or paywalls using Gemini AI for intelligent summaries.",
+  "requestFramePermissions": []
+}
